@@ -1,10 +1,7 @@
 
 package com.mycompany.mavenproject1;
 
-/**
- *
- * @author Student
- */
+
 
 public class BedManagement {
     //Declarations
