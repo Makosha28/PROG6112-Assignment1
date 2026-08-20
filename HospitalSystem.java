@@ -2,10 +2,7 @@
 
 package com.mycompany.mavenproject1;
 
-/**
- *
- * @author Student
- */
+
 import java.util.ArrayList;
 import java.util.List;
 
